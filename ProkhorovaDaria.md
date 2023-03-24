@@ -19,3 +19,8 @@ git -m commit "commit"
 ```
 git log
 ```
+
+## Переключение между фиксациями: 
+```
+git chekout
+```
