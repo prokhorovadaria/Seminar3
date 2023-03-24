@@ -14,3 +14,8 @@ git add < >
 ```
 git -m commit "commit"
 ```
+
+## Показывает журнал коммитов: 
+```
+git log
+```
